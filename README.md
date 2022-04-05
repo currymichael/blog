@@ -2,11 +2,11 @@
 
 ## Setup
 
-1. Markdown Only
-2. Setup Pages in Repo Settings
-3. All .md -> .html in URL
-4. Easy
+1. Markdown based only
+2. Setup Pages in Repo Settings (main branch & /docs folder root)
+3. All .md -> .html in URL (about.md -> about.html)
+4. See Readme.md for all notes 
 
 ## Deployment
 
-[TBD]
+Pretty fast redeploy (< 2 min)
