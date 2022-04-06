@@ -1,5 +1,7 @@
 # /blog
 
+https://currymichael.github.io/blog/
+
 ## Setup
 
 1. Blog of Markdown files and pure html files
