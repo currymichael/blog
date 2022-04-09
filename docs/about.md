@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "scooby doo"
+title: "About"
 ---
 
-# About 
-
-Made in Oakland.
+Born in Danbury, Connecticut.
+Studied in New York, New York.
+Made in Oakland, California.
 
 /&/
