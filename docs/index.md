@@ -1,5 +1,3 @@
-# Blog for Michael Curry
-
 ## Table of Contents
 
 1. Index
