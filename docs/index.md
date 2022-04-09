@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+page.title: Homeland
 ---
 
 ## Table of Contents
