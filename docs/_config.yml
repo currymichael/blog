@@ -4,4 +4,4 @@ url: https://currymichael.github.io/blog
 paginate: 1
 permalink: pretty
 remote_theme: currymichael/poole
-baseurl: https://currymichael.github.io/blog/
+baseurl: https://currymichael.github.io/blog
