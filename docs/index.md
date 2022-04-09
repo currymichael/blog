@@ -12,5 +12,3 @@ page.title: Homeland
 4. More!!!
 
 ----
-
-### Made in Oakland. @2022 Michael Curry
