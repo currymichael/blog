@@ -1,3 +1,8 @@
+---
+layout: default
+page.title: something else
+---
+
 ## Table of Contents
 
 1. Index
