@@ -1,1 +1,2 @@
-remote_theme: poole/poole
+remote_theme: currymichael/poole
+baseurl: https://currymichael.github.io/blog/
