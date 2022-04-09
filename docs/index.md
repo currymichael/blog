@@ -1,6 +1,6 @@
 ---
 layout: default
-page.title: something else
+title: Home
 ---
 
 ## Table of Contents
